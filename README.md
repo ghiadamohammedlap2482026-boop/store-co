@@ -4,6 +4,10 @@ A modern, responsive E-Commerce web application built with **React**, **React Ro
 
 ---
 
+## overview
+<img width="960" height="492" alt="image" src="https://github.com/user-attachments/assets/704bba9f-ff81-4ca0-81ec-5414014f6979" />
+
+
 ## Features
 
 - **Product Listing & Filtering**: Filter products by category, price range, search query, and sort by price/rating.
